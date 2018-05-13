@@ -1,0 +1,97 @@
+body{
+	font-family: 'Imprima', sans-serif;
+
+	padding-bottom: 5%;
+
+}
+
+img{
+	box-shadow: 0px 0px 8px 0px black;
+}
+
+h3{
+	font-family: 'Pangolin', cursive;
+}
+
+
+.container{
+	
+	margin-top: 5%;
+	padding-top: 2%;
+
+	border-radius: 5px;
+
+	padding-right: 2%;
+
+
+}
+
+
+#faceboock{
+
+	background: url(https://image.flaticon.com/icons/svg/69/69407.svg);
+
+	height: 50px;
+	width: 50px;
+
+	border-radius: 100%;
+
+}
+
+#twitter{
+	background: url(https://image.flaticon.com/icons/svg/69/69480.svg);
+	height: 50px;
+	width: 50px;
+
+	border-radius: 100%;
+}
+
+#instagram{
+	background: url(https://image.flaticon.com/icons/svg/69/69366.svg);
+	height: 50px;
+	width: 50px;
+
+	border-radius: 100%;
+}
+
+#youtube{
+	background: url(https://image.flaticon.com/icons/svg/123/123722.svg);
+	height: 50px;
+	width: 50px;
+	border-radius: 100%;
+}
+
+
+#conte{
+	background-color: #ccc;
+	border-radius: 5px;
+
+	box-shadow: 0px 0px 10px 2px black;
+
+}
+
+#info{
+	height: 105px;
+
+	padding-top: 45px;
+
+}
+
+#botones{
+	display: flex;
+	justify-content: space-around;
+}
+
+#infoPer{
+	box-shadow: 0px 0px 3px 1px #ccc;
+}
+
+#idiomas{
+	box-shadow: 0px 0px 1px 1px #ccc;
+
+	height: 503px;
+}
+
+#disenhador{
+	font-family: 'Pangolin', cursive;
+}
